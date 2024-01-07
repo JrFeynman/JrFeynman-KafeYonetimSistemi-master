@@ -1,0 +1,15 @@
+Müşteri Adı: salih
+Macchiato - Large - 3.5
+Macchiato - Large - 3.5
+Macchiato - Large - 3.5
+Cappucino - Medium - 2.5
+Cappucino - Medium - 2.5
+Cappucino - Medium - 2.5
+Cappucino - Medium - 2.5
+Espresso - Large - 3.0
+Çay - Demlik - 15.0
+Çay - Demlik - 15.0
+Çay - Demlik - 15.0
+Çay - Demlik - 15.0
+Çay - Demlik - 15.0
+Toplam Fiyat: 98.5

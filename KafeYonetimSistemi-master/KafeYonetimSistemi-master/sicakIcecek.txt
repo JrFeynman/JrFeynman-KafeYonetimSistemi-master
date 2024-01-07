@@ -1,0 +1,28 @@
+1,Filtre Kahve,Small
+2,Filtre Kahve,Medium
+3,Filtre Kahve,Large
+
+2,Americano,Small
+3,Americano,Medium
+4,Americano,Large
+
+1,Espresso,Small
+2,Espresso,Medium
+3,Espresso,Large
+
+2,Cappucino,Small
+2.5,Cappucino,Medium
+3,Cappucino,Large
+
+2.5,Macchiato,Small
+3,Macchiato,Medium
+3.5,Macchiato,Large
+
+3,Latte,Small
+3.5,Latte,Medium
+4,Latte,Large
+
+3,Çay,Kupa
+2,Çay,Bardak
+15,Çay,Demlik
+

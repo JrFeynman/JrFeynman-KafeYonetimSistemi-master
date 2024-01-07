@@ -1,0 +1,17 @@
+3,Smoothie,Small
+4,Smoothie,Medium
+5,Smoothie,Large
+
+4,Bubble Tea,Small
+5,Bubble Tea,Medium
+6,Bubble Tea,Large
+
+4,Frappe,Small
+4,Frappe,Medium
+5,Frappe,Large
+
+1,Limonata,Small
+2,Limonata,Medium
+3,Limonata,Large
+
+

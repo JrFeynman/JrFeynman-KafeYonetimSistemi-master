@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Kafe">
+  <grid id="27dc6" binding="anaPanel" layout-manager="GridLayoutManager" row-count="2" column-count="4" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="-4" y="-1" width="789" height="493"/>
+    </constraints>
+    <properties>
+      <background color="-14084082"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <grid id="df692" binding="ustPanel" layout-manager="GridBagLayout">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="4" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false">
+            <preferred-size width="-1" height="800"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-16777216"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <grid id="ab4b4" binding="urunButonlari" layout-manager="GridLayoutManager" row-count="2" column-count="4" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints>
+              <grid row="0" column="1" row-span="2" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+              <gridbag weightx="1.0" weighty="1.0"/>
+            </constraints>
+            <properties>
+              <background color="-11849439"/>
+            </properties>
+            <border type="etched"/>
+            <children>
+              <component id="29701" class="javax.swing.JLabel" binding="SicakIceceklerLabel">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-515"/>
+                  <font name="Arial Black"/>
+                  <foreground color="-515"/>
+                  <text value="Sıcak İçecekler"/>
+                </properties>
+              </component>
+              <component id="81e70" class="javax.swing.JLabel" binding="SogukIceceklerLabel">
+                <constraints>
+                  <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-515"/>
+                  <font name="Arial Black"/>
+                  <foreground color="-515"/>
+                  <text value="Soğuk İçecekler"/>
+                </properties>
+              </component>
+              <component id="6df36" class="javax.swing.JLabel" binding="TatlilarLabel">
+                <constraints>
+                  <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-515"/>
+                  <font name="Arial Black"/>
+                  <foreground color="-515"/>
+                  <text value="Tatlılar"/>
+                </properties>
+              </component>
+              <component id="fb27" class="javax.swing.JLabel" binding="TuzlularLabel">
+                <constraints>
+                  <grid row="0" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <background color="-515"/>
+                  <font name="Arial Black"/>
+                  <foreground color="-515"/>
+                  <text value="Tuzlular"/>
+                </properties>
+              </component>
+              <component id="56895" class="javax.swing.JList" binding="SicakIcecekler">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="2" anchor="0" fill="3" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="50"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <background color="-7902121"/>
+                  <foreground color="-16777216"/>
+                  <model/>
+                </properties>
+              </component>
+              <component id="41af3" class="javax.swing.JList" binding="SogukIcecekler">
+                <constraints>
+                  <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="2" anchor="0" fill="3" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="50"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <background color="-7902121"/>
+                  <foreground color="-16777216"/>
+                </properties>
+              </component>
+              <component id="9cf33" class="javax.swing.JList" binding="Tatlilar">
+                <constraints>
+                  <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="6" hsize-policy="2" anchor="0" fill="3" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="50"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <background color="-7902121"/>
+                  <foreground color="-16777216"/>
+                </properties>
+              </component>
+              <component id="507e0" class="javax.swing.JList" binding="Tuzlular">
+                <constraints>
+                  <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="6" hsize-policy="2" anchor="0" fill="3" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="50"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <background color="-7902121"/>
+                  <foreground color="-16777216"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="a6f37" binding="eklenenUrunler" layout-manager="GridLayoutManager" row-count="3" column-count="3" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints>
+              <grid row="0" column="0" row-span="2" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+              <gridbag weightx="1.0" weighty="1.0"/>
+            </constraints>
+            <properties>
+              <background color="-7902121"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="d26b9" class="javax.swing.JLabel" binding="labelTF">
+                <constraints>
+                  <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font name="Arial Black"/>
+                  <foreground color="-16777216"/>
+                  <text value="Toplam Fiyat"/>
+                </properties>
+              </component>
+              <component id="74ad8" class="javax.swing.JLabel" binding="ToplamFiyat">
+                <constraints>
+                  <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font name="Arial Black"/>
+                  <foreground color="-16777216"/>
+                  <text value=""/>
+                </properties>
+              </component>
+              <component id="9bd23" class="javax.swing.JLabel" binding="Urunler">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font name="Arial Black"/>
+                  <foreground color="-16777216"/>
+                  <text value="Ürünler"/>
+                </properties>
+              </component>
+              <scrollpane id="12906">
+                <constraints>
+                  <grid row="1" column="0" row-span="1" col-span="3" vsize-policy="7" hsize-policy="7" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties/>
+                <border type="none"/>
+                <children>
+                  <component id="b7568" class="javax.swing.JList" binding="list1">
+                    <constraints/>
+                    <properties>
+                      <background color="-2707313"/>
+                      <foreground color="-16777216"/>
+                      <model/>
+                    </properties>
+                  </component>
+                </children>
+              </scrollpane>
+            </children>
+          </grid>
+        </children>
+      </grid>
+      <component id="852b0" class="javax.swing.JButton" binding="MenuButton">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Menü"/>
+        </properties>
+      </component>
+      <component id="f83f1" class="javax.swing.JButton" binding="Gecmis">
+        <constraints>
+          <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Geçmiş Siparişler"/>
+        </properties>
+      </component>
+      <component id="220a7" class="javax.swing.JButton" binding="SiparisOlustur">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Sipariş Oluştur"/>
+        </properties>
+      </component>
+      <component id="842d5" class="javax.swing.JButton" binding="Iptal">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="İptal"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

@@ -1,0 +1,43 @@
+Müşteri Adı: adsfgasd
+Çay - Demlik - 15.0
+Cappucino - Medium - 2.5
+Filtre Kahve - Large - 3.0
+Macchiato - Small - 2.5
+Macchiato - Small - 2.5
+Latte - Medium - 3.5
+Espresso - Large - 3.0
+Filtre Kahve - Large - 3.0
+Bubble Tea - Large - 6.0
+Bubble Tea - Large - 6.0
+Bubble Tea - Large - 6.0
+Frappe - Small - 4.0
+Frappe - Small - 4.0
+Limonata - Medium - 2.0
+Macchiato - Small - 2.5
+Macchiato - Small - 2.5
+Cappucino - Large - 3.0
+Cappucino - Large - 3.0
+Cappucino - Large - 3.0
+Cappucino - Large - 3.0
+Cappucino - Large - 3.0
+Cappucino - Large - 3.0
+Cappucino - Large - 3.0
+Cappucino - Large - 3.0
+Espresso - Small - 1.0
+Espresso - Small - 1.0
+Espresso - Small - 1.0
+Espresso - Small - 1.0
+Espresso - Small - 1.0
+Espresso - Small - 1.0
+Espresso - Small - 1.0
+Çay - Demlik - 15.0
+Limonata - Large - 3.0
+Latte - Large - 4.0
+Macchiato - Small - 2.5
+Macchiato - Small - 2.5
+Latte - Large - 4.0
+Latte - Large - 4.0
+Latte - Large - 4.0
+Latte - Large - 4.0
+Latte - Large - 4.0
+Toplam Fiyat: 146.0
