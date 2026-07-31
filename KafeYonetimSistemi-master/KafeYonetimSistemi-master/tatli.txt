@@ -1,7 +1,0 @@
-5,Cheesecake
-
-4,Ekler
-
-3,Donut
-
-4,Kruvasan
