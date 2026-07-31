@@ -1,0 +1,28 @@
+# Build
+build/
+cmake-build-*/
+out/
+*.o
+*.a
+*.dylib
+compile_commands.json
+
+# Runtime data
+data/*.db
+data/*.db-wal
+data/*.db-shm
+data/*.db-journal
+dump.rdb
+
+# ImGui / local
+imgui.ini
+.DS_Store
+*.user
+.idea/
+.vscode/
+*.swp
+*~
+
+# Logs
+*.log
+/tmp/
